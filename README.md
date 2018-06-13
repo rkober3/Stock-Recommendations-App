@@ -1,8 +1,8 @@
 # Stock-Recommendations-App
 From a mac on the terminal, navigate to the directory to which this repository has been cloned.
-\nTo install the requirements, type 'pip3 install -r requirements.txt'
-\nAdd a file called '.env' to the repository and enter the text 'ALPHAVANTAGE_API_KEY = your_api_key'. 
-\nSave the file, as it will be necessary to request data from the server.
+To install the requirements, type 'pip3 install -r requirements.txt'
+Add a file called '.env' to the repository and enter the text 'ALPHAVANTAGE_API_KEY = your_api_key'. 
+Save the file, as it will be necessary to request data from the server.
 From the terminal, type 'python3 stock-guru.py'. This will initialize the program.
 You will be prompted to input a stock symbol.
 The script will output:
