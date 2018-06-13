@@ -1,0 +1,6 @@
+ipython
+pytest
+python-dotenv
+requests
+datetime
+statistics-mean
